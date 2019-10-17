@@ -1,0 +1,22 @@
+.blue {
+  // color: #0084fff6;
+  color: #ffffffd2;
+  cursor: pointer;
+
+  &:hover {
+    color: white;
+  }
+}
+
+
+.navbar {
+  background-color: #0084fff6 !important;
+}
+
+.navbar-brand {
+  color: #ffffffd2 !important;
+
+  &:hover {
+    color: white !important;
+  }
+}

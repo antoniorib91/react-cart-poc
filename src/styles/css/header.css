@@ -1,0 +1,20 @@
+.blue {
+  color: #ffffffd2;
+  cursor: pointer;
+}
+.blue:hover {
+  color: white;
+}
+
+.navbar {
+  background-color: #0084fff6 !important;
+}
+
+.navbar-brand {
+  color: #ffffffd2 !important;
+}
+.navbar-brand:hover {
+  color: white !important;
+}
+
+/*# sourceMappingURL=header.css.map */
